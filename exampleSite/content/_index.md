@@ -1,4 +1,5 @@
 ---
-title: "Home"
+title: Home
+
 ---
-This is some info about me.
+Trying to make a personal site.
